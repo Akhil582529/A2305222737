@@ -1,6 +1,6 @@
 
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is a **Full Stack HTTP URL Shortener Microservice**  
 It includes:
@@ -10,7 +10,7 @@ It includes:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend:** Node.js, Express.js
 - **Frontend:** React (with Vite), Material UI (`@mui/material`, `@emotion/react`, `@emotion/styled`)
@@ -19,7 +19,7 @@ It includes:
 
 ---
 
-## 📦 Folder Details
+## Folder Details
 
 - `Logging Middleware/` &rarr; Custom logger scripts for both backend and frontend
 - `Backend Test Submission/` &rarr; Source code for Node.js/Express microservice (controllers, services, repositories, etc).
