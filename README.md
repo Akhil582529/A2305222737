@@ -25,11 +25,6 @@ It includes:
 - `Backend Test Submission/` &rarr; Source code for Node.js/Express microservice (controllers, services, repositories, etc).
 - `Frontend Test Submission/` &rarr; Source code for React UI with Material UI, split into required folders as per rules.
 
----
 
-## 🔗 Live Demo Locally
 
-### Backend
 
-1. Navigate to `Backend Test Submission/src/`  
-2. Install dependencies:  
